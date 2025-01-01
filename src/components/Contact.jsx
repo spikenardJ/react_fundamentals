@@ -4,11 +4,11 @@ import "../PortfolioStyles.css";
 class Contact extends Component {
     render () {
         return (
-            <footer>
+            <section>
                 <h2>Contact</h2>
                 <p>Email: jennifer_annette@hotmail.com</p>
                 <p>LinkedIn: https://www.linkedin.com/in/jenniferhurst/</p>
-            </footer>
+            </section>
         );
     }
 }
