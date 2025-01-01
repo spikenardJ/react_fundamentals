@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background-image: url(images/subtle-flower.jpg);
+    background-position: center;
+    width: 100%;
+    height: auto;
+}
+
+header, section, footer {
+    padding: 20px;
+    margin: 20px;
+}
+
+h2 {
+    color: #BA55D3;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    font-size: 1rem;
+}
+
+footer {
+    background-color: #f5f5f5;
+    margin-top: 20px;
+    padding: 10px;
+}
+
